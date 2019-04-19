@@ -1,0 +1,17 @@
+body{
+    background-image: url('./bowl-cherries-chicken-936611.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.whole{
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.781);
+}
+.nav-wrapper{
+    background-color: rgb(207, 89, 74);
+}
+h5.total-cal {
+    color: black;
+    padding: 30px 0 50px;
+}
